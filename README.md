@@ -1,13 +1,16 @@
 # My to do list
 Just somewhere to store my to do list
 
-1. Enable RAID F1 without losing SHR.
+1. Create Synoinfo_switch. A menu with checkboxes to enable/disable all the good options in synoinfo.conf
+    Requires whiptail command be installed?
 
-2. Enable data deduplication for HDDs.
+2. Enable RAID F1 without losing SHR.
 
-3. Allow using non-Synology DAS as expansion units.
+3. Enable data deduplication for HDDs.
 
-4. Finish adding install and restore scripts to Syno_Plex_Backup.
+4. Allow using non-Synology DAS as expansion units.
 
-5. Update older scripts with "check new version" code.
+5. Finish adding install and restore scripts to Syno_Plex_Backup.
+
+6. Update older scripts with "check new version" code.
 
