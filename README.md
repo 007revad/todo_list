@@ -1,6 +1,10 @@
 # My to do list
 Just somewhere to store my to do list
 
+a. Test syno_hdd_db DSM 6 code.
+
+b. Check why DS151+ DSM 7.1.1 not working with enabled_m2_volume script.
+
 1. Change m2 volume to show if these are already disabled or enabled:
     - Disabled support disk compatibility.
     - Disabled support memory compatibility.
@@ -23,3 +27,4 @@ Just somewhere to store my to do list
     - To update itself.
     - Add an install script.
 
+9. Write DSM Downgrade script.
