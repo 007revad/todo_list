@@ -3,7 +3,7 @@ Just somewhere to store my to do list
 
 - Test synology_m2_volume DSM 6 code.
 
-- Check why DS151+ DSM 7.1.1 not working with enable_m2_volume script.
+- Check why DS1515+ DSM 7.1.1 not working with enable_m2_volume script.
 
 - Change m2 volume to show if these are already disabled or enabled:
     - Disabled support disk compatibility.
