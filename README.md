@@ -1,6 +1,8 @@
 # My to do list
 Just somewhere to store my to do list
 
+- Create install script for all my repositories.
+
 - Test synology_m2_volume DSM 6 code.
 
 - Check why DS1515+ DSM 7.1.1 not working with enable_m2_volume script.
@@ -28,3 +30,5 @@ Just somewhere to store my to do list
     - Add an install script.
 
 - Write DSM Downgrade script ???
+
+- Write Package Move script ???
