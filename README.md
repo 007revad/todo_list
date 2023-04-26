@@ -35,6 +35,8 @@
     - To update itself.
     - Add an install script.
 
+- See if I can bypass the 108TB volume size limit (and check much memory it needs).
+
 - Write script to downgrade DSM to previous version ???
 
 - Write script to move Packages to another volume ???
