@@ -35,7 +35,7 @@
     - To update itself.
     - Add an install script.
 
-- See if I can bypass the 108TB volume size limit (and check much memory it needs).
+- See if I can bypass the 108TB volume size limit (needs 32GB or more memory and you must use RAID 6 and Btrfs).
 
 - Write script to downgrade DSM to previous version ???
 
