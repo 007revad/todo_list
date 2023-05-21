@@ -7,6 +7,12 @@
 
 ## To do
 
+- Update all my Synology scripts to check that they are running on a Synology and give a warning, and instructions, if they aren't.
+
+- Enable Health Info in storage manager for non-Synology NVMe drives in DSM 7.2. (Synology_enable_M2_volume already does this)
+
+- Enable Benchmark Tool for NVMe drives in DSM 7.2.
+
 - Create install script for all my repositories.
 
 - Test synology_m2_volume DSM 6 code.
