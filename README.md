@@ -9,6 +9,9 @@
 
 - Add option to auto update synology_hdd_db x days after new version released.
 
+- Work out what makes storage manager change "Cache Drive 1" to "M.2 Drive 1"
+- Change syno_hdd_db.sh so a reboot is not needed when the NAS has M.2 drives.
+
 - Update all my Synology scripts to check that they are running on a Synology and give a warning, and instructions, if they aren't.
 
 - Enable Health Info in storage manager for non-Synology NVMe drives in DSM 7.2. (Synology_enable_M2_volume already does this)
