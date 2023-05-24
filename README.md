@@ -7,6 +7,8 @@
 
 ## To do
 
+- Add option to auto update synology_hdd_db x days after new version released.
+
 - Update all my Synology scripts to check that they are running on a Synology and give a warning, and instructions, if they aren't.
 
 - Enable Health Info in storage manager for non-Synology NVMe drives in DSM 7.2. (Synology_enable_M2_volume already does this)
