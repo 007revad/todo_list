@@ -40,6 +40,7 @@
 - Allow using non-Synology DAS as expansion units.
 
 - Finish adding install and restore scripts to Syno_Plex_Backup.
+- Add option to delete backups older than x days. See https://www.reddit.com/r/synology/comments/13zgbyl/comment/jn0misx/
 
 - Update older scripts with "check new version" code.
 
