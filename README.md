@@ -5,9 +5,18 @@
 
 **If you have an idea for a new script, or suggestions to improve an existing script [leave a comment in Discussions](https://github.com/007revad/todo_list/discussions).**
 
+## Done
+
+- Enable Immutable Snapshots for models older than '20 series.
+- Enable using M2D20, M2D18, M2D17 (and E10M20-T1?) in Synology NAS that don't officially support them.
+- Add option to auto update synology_hdd_db x days after new version released.
+- Test synology_m2_volume DSM 6 code.
+
+
 ## To do
 
-- Add option to auto update synology_hdd_db x days after new version released.
+- Add option to synology_plex_backup to delete backup files older than 14 days
+  find $Backup_Directory -type f -mtime +14 -delete
 
 - Work out what makes storage manager change "Cache Drive 1" to "M.2 Drive 1"
 - Change syno_hdd_db.sh so a reboot is not needed when the NAS has M.2 drives.
@@ -18,11 +27,7 @@
 
 - Enable Benchmark Tool for NVMe drives in DSM 7.2.
 
-- See if I can enable Immutable Snapshots for models older than '20 series.
-
 - Create install script for all my repositories.
-
-- Test synology_m2_volume DSM 6 code.
 
 - Check why DS1515+ DSM 7.1.1 not working with enable_m2_volume script.
 
