@@ -15,6 +15,10 @@
 
 ## To do
 
+- Change syno_m2_volume to check for existing volumes instead of existing partitions.
+- Change syno_m2_volume to give more accurate resync time estimates.
+- Change syno_m2_volume to offer to skip the resync (like storage manager does).
+
 - Add option to synology_plex_backup to delete backup files older than 14 days
   find $Backup_Directory -type f -mtime +14 -delete
 
