@@ -7,12 +7,12 @@
 
 ## Done
 
+- Add support for Plex in docker to Synology_Plex_backup.
 - Enable Immutable Snapshots for models older than '20 series.
 - Enable using M2D20, M2D18, M2D17 (and E10M20-T1?) in Synology NAS that don't officially support them.
 - Add option to auto update synology_hdd_db x days after new version released.
 - Test synology_m2_volume DSM 6 code.
 - Enable Health Info in storage manager for non-Synology NVMe drives in DSM 7.2 (Synology_enable_M2_volume already does this).
-
 
 ## To do
 
