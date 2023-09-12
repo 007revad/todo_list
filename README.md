@@ -34,7 +34,6 @@
     - Disabled support memory compatibility.
 - Create Synoinfo_switch. A menu with checkboxes to enable/disable all the good options in synoinfo.conf
     - Use fzf
-- Enable RAID F1 without losing SHR.
 - Enable data deduplication for HDDs.
 - Allow using non-Synology DAS as expansion units.
 - Finish adding install and restore scripts to Syno_Plex_Backup.
