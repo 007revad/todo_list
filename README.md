@@ -15,7 +15,7 @@
 - Test synology_m2_volume DSM 6 code.
 - Enable Health Info in storage manager for non-Synology NVMe drives in DSM 7.2 (Synology_enable_M2_volume already does this).
 
-## To do
+## To Do
 
 - Find out how DSM 7 does Fast Repair so syno_m2_volume can create the storage pool faster.
 - Change syno_m2_volume to check for existing volumes instead of existing partitions.
