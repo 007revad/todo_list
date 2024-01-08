@@ -20,6 +20,8 @@
 - Add a check if script is running on a Synology NAS in all my scripts.
 - Add infor on how to enable SSH and connect to a Synology via SSH.
 
+<br>
+
 - Find out how DSM 7 does Fast Repair so syno_m2_volume can create the storage pool faster.
 - Change syno_m2_volume to check for existing volumes instead of existing partitions.
 - Change syno_m2_volume to give more accurate resync time estimates.
